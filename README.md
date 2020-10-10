@@ -1,5 +1,3 @@
-# Debugging
-Lab02
 /**
  * This program computes the sum of the first n
  * prime numbers.  Optionally, it allows the user
